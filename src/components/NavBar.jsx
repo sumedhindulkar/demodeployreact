@@ -15,7 +15,7 @@ function NavBar() {
             <NavLink to="/B">Hospital</NavLink>
           </li>
           <li className="nav-items">
-            <NavLink to="/labs">Testing Labs</NavLink>
+            <NavLink to="/C">Testing Labs</NavLink>
           </li>
           <li className="nav-items">
             <NavLink to="/ngo">NGO's</NavLink>
